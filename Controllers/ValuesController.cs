@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
         [Route ("getVal")]
         public string getdetails()
         {
-            return "my code works fine";
+            return "my code works 2nd time";
         }
     }
 }
